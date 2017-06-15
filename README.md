@@ -2,6 +2,6 @@
 3D models of fruit trees
 
 1. Add short explanation about this repository
-2. Add link to a document which is your thesis abstract about the library, or just cut and paste it here to the end.
-3. Add an explanation on how you constructed the models - maybe including the code?
-4. more importantly add explanation on how to read the model and also put the m-files that reads the models
+2. Tree Model Library.pdf contains description of library and matlab functions
+3. "Tree Models" folder contains text files with tree models
+4. "Matlab Functions" folder contains matlab functions for reading and drawing tree models
