@@ -1,5 +1,6 @@
 # Tree-Models-Library
-3D models of fruit trees
+3D models of fruit trees used for robot task-based optimization.
+Created by Victor Bloch, Amir Degani, Avital Bechar
 
 1. ToDo: add a short explanation about this repository
 2. ToDo: Tree Model Library.pdf contains description of library and matlab functions
